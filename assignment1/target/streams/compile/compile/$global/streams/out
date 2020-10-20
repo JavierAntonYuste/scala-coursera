@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/javi-anton/Documentos/scala/example/src/main/scala/example/Lists.scala:50:7: ';' expected but 'else' found.[0m
-[0m[[0m[31merror[0m] [0m[0m      else {aux(xs.tail,max)}[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/javi-anton/Documentos/scala-coursera/assignment1/src/main/scala/recfun/RecFun.scala:36:1: not found: value MUIT[0m
+[0m[[0m[31merror[0m] [0m[0mMUIT[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
